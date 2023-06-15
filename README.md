@@ -1,2 +1,1 @@
-# meta-front-end-developer-capstone
-meta-front-end-developer-capstone
+# My capstone project for the Meta Front-End Developer Professional Certificate
